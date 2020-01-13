@@ -15,7 +15,7 @@ namespace _00_Exterminar
         public Form1()
         {
             InitializeComponent();
-            String Texto = "";
+            String Texto = "Demo";
         }
     }
 }
